@@ -10,6 +10,7 @@ def getlist():
 ||layervault.com
 ||list-manage.com
 ||goagent.co
+||goog.com
 ||goo.gl
 """
     return set(liststr.splitlines(False))
